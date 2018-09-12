@@ -11,6 +11,7 @@ As part of our Qwiic family, the setup is basic, just connect the lower voltage 
 We’ve also included the pinout in case you want to have the access directly to the connections. 
 
 Dimensions: 18.4 x 19.9mm 
+
 Weight: 1.2g
 
 
